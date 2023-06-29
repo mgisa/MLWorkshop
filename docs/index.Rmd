@@ -564,8 +564,8 @@ knitr::include_graphics("images/acsm1.png")
 
 > Sampling
 
-- The sample data used was collected from January 2020 to December 2022.
-- The sample has been hourly averaged and reach to $26,280$ to accumulate the individual signals for 3 years and to reduce computation run time.
+- The sample data used was collected from January 2018 to December 2019.
+- The sample has been hourly averaged and reach to $17,520$ to accumulate the individual signals for 3 years and to reduce computation run time.
 
 ]
 .panel[.panel-name[Modeling]
@@ -685,7 +685,7 @@ relevant in the task and it is not limited to air pollution only it might be use
 
 - This study shows that the main sources are `traffic emissions, Biomass Burning, VOCs` sourced from households and industrial processing(SULFO:cosmestics,detergent process) and commercial activities(MATHEUS).
 
-- The future study might focused on the predictive and forecasting learning of aerosol pollutants levels over 24 to 48 hours.
+- The future study might focused on increasing the sample size and undertake the predictive and forecasting learning of aerosol levels over 24 to 48 hours.
 
 - This enhance the effective adjustment of behavior to reduce public exposure and serious health risks of aerosols.
 ]
